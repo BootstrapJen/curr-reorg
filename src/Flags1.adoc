@@ -3,11 +3,14 @@
 == Facilitation
 
 Students will be able to:
+
 * Create composite images using functions
 * Use spatial reasoning
+
 == Big Idea
 
 Students will use the functions they’ve learned to recreate a nation’s flag with code.
+
 == Key Points
 
 * https://docs.google.com/document/d/1qwnNSyHr2LLNWlGUVRKXOH37JHsrAwzN-MA5XWzIUlk/edit?usp=sharing[Samples of Flags] - a visual guide to some flags appropriate for this project (require knowledge of overlay, overlay/align, beside, above)
