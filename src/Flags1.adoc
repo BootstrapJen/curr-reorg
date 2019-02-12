@@ -33,6 +33,7 @@ Students will use the functions they’ve learned to recreate a nation’s flag 
 == Standards
 [@standards]
 |===
+//header
 | Math Standards
 | CS Standards
 
@@ -44,7 +45,6 @@ Students will use the functions they’ve learned to recreate a nation’s flag 
 * http://www.corestandards.org/Math/Practice/MP6[CCSS.MATH.PRACTICE.MP6] - Attend to precision.
 
 |
-* _blank_
 |===
 
 == Sample Lesson Outline
@@ -55,44 +55,44 @@ Students will use the functions they’ve learned to recreate a nation’s flag 
 //header
 
 | Activity
-|	Time
-|	Description
-|	Materials
+| Time
+| Description
+| Materials
 
 //row
 
-|	*Launch*
-|	5 m
-| _blank_
-| _blank_
+| *Launch*
+| 5 m
+| 
+| 
 
 //row
 
 | *Explore*
-|	10m
-| _blank_	
-| _blank_
+| 10m
+| 	
+| 
 
 //row
 
 | *Discuss*
-|	10m
-| _blank_
-| _blank_
+| 10m
+| 
+| 
 
 //row
 
 | *Practice*
-|	10m
-| _blank_
-| _blank_
+| 10m
+| 
+| 
 	
 //row 
 
 | *Create/Apply*
 | 10m
-| _blank_
-| _blank_
+| 
+| 
 	
 //row
 
