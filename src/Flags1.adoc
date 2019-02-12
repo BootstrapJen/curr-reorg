@@ -1,1 +1,96 @@
-= Flags 1
+= Flags Project 1
+
+== Facilitation
+
+Students will be able to:
+* Create composite images using functions
+* Use spatial reasoning
+== Big Idea
+
+Students will use the functions they’ve learned to recreate a nation’s flag with code.
+== Key Points
+
+* https://docs.google.com/document/d/1qwnNSyHr2LLNWlGUVRKXOH37JHsrAwzN-MA5XWzIUlk/edit?usp=sharing[Samples of Flags] - a visual guide to some flags appropriate for this project (require knowledge of overlay, overlay/align, beside, above)
+* Contracts are especially important in this lesson - students should have their contracts page open and be able to figure out why they can’t combine three images at once.
+* While learning, most students will define a new image with every step, which is completely fine and expected at this stage.  As students grow more comfortable, they may discover that they can nest functions together without these extra definitions.
+
+== Guiding Questions
+* What are some recurring themes we see in the flags of different nations?
+* Why do you think some of those themes exist?
+* What do the different colors make you think of? 
+* How do you think the colors and shapes of the flag were chosen? 
+* Why isn’t there a standard size or shape for a flag?  Do you think there should be?  
+
+== Implementation Guidelines
+* Students must be familiar with The Design Recipe for this activity.
+* Students must be familiar with Image Manipulation functions for this activity.
+
+== Standards
+[@standards]
+|===
+| Math Standards
+| CS Standards
+
+|
+* http://www.corestandards.org/Math/Practice/MP1[CCSS.MATH.PRACTICE.MP1] Make sense of problems and persevere in solving them.
+* http://www.corestandards.org/Math/Practice/MP2[CCSS.MATH.PRACTICE.MP2] Reason abstractly and quantitatively.
+* http://www.corestandards.org/Math/Practice/MP6[CCSS.MATH.PRACTICE.MP6] Attend to precision.
+
+|
+* _blank_
+|===
+
+== Sample Lesson Outline
+
+[@lesson]
+|===
+
+//header
+
+| Activity
+|	Time
+|	Description
+|	Materials
+
+//row
+
+|	*Launch*
+|	5 m
+| _blank_
+| _blank_
+
+//row
+
+| *Explore*
+|	10m
+| _blank_	
+| _blank_
+
+//row
+
+| *Discuss*
+|	10m
+| _blank_
+| _blank_
+
+//row
+
+| *Practice*
+|	10m
+| _blank_
+| _blank_
+	
+//row 
+
+| *Create/Apply*
+| 10m
+| _blank_
+| _blank_
+	
+//row
+
+| *Connection Activities*
+|
+| 
+|
+|===
