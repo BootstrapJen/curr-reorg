@@ -18,6 +18,7 @@ Students will use the functions they’ve learned to recreate a nation’s flag 
 * While learning, most students will define a new image with every step, which is completely fine and expected at this stage.  As students grow more comfortable, they may discover that they can nest functions together without these extra definitions.
 
 == Guiding Questions
+
 * What are some recurring themes we see in the flags of different nations?
 * Why do you think some of those themes exist?
 * What do the different colors make you think of? 
@@ -25,6 +26,7 @@ Students will use the functions they’ve learned to recreate a nation’s flag 
 * Why isn’t there a standard size or shape for a flag?  Do you think there should be?  
 
 == Implementation Guidelines
+
 * Students must be familiar with The Design Recipe for this activity.
 * Students must be familiar with Image Manipulation functions for this activity.
 
@@ -35,9 +37,11 @@ Students will use the functions they’ve learned to recreate a nation’s flag 
 | CS Standards
 
 |
-* http://www.corestandards.org/Math/Practice/MP1[CCSS.MATH.PRACTICE.MP1] Make sense of problems and persevere in solving them.
-* http://www.corestandards.org/Math/Practice/MP2[CCSS.MATH.PRACTICE.MP2] Reason abstractly and quantitatively.
-* http://www.corestandards.org/Math/Practice/MP6[CCSS.MATH.PRACTICE.MP6] Attend to precision.
+* http://www.corestandards.org/Math/Practice/MP1[CCSS.MATH.PRACTICE.MP1] - Make sense of problems and persevere in solving them.
+
+* http://www.corestandards.org/Math/Practice/MP2[CCSS.MATH.PRACTICE.MP2] - Reason abstractly and quantitatively.
+
+* http://www.corestandards.org/Math/Practice/MP6[CCSS.MATH.PRACTICE.MP6] - Attend to precision.
 
 |
 * _blank_
