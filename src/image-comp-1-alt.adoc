@@ -1,6 +1,6 @@
 = Intro to Image Composition
 
-*Students will learn three new functions that allow them to create more complex images using spatial reasoning and planning.*
+== Students will learn three new functions that allow them to create more complex images using spatial reasoning and planning.
 
 [cols="20,80"]
 |===
