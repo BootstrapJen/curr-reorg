@@ -2,6 +2,7 @@
 
 *Students will learn three new functions that allow them to create more complex images using spatial reasoning and planning.*
 
+[cols="20,80"]
 |===
 | Lesson Goals a| Students will be able to
                   * Create composite images using functions 
@@ -17,6 +18,7 @@
                    * Students must be familiar with Image Manipulation functions for this activity.
 |===
 
+[cols="20,80"]
 |=== 
 | Math Standards (CCSS) a| * http://www.corestandards.org/Math/Practice/MP1[CCSS.MATH.PRACTICE.MP1] - Make sense of problems and persevere in solving them.
 
@@ -35,9 +37,9 @@ Students should have their Contracts page and pencil ready.
 Ask students how they learned to talk, to walk, to hold a spoon, to throw a ball.  Chances are that they learned by imitating someone else.  Show the starter images and explain that today, the students will practice their image skills by replicating some well-known imagery. 
 
 .Art Connection
-********************************************************
-During the Renaissance, some master painters took in student apprentices and had the student duplicate their original works as a way to build the student’s skills.  The copies were then sold to pay the student’s tuition.
-********************************************************
+****
+During the Renaissance, it was common practice for students studying art (apprentices) to copy the works of their master as a method of building their technical skills.  Some students learned to copy the artistic style of their master so expertly that historians today still have difficulty deciding if a piece of art was created by the master who signed it or by one of his students.
+****
 
 [.underline]#Notice & Wonder:# What do students notice about the starter images?  What tools might they need to create them?  
 
