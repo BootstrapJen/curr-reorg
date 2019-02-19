@@ -1,0 +1,61 @@
+= Intro to Image Composition
+
+*Students will learn three new functions that allow them to create more complex images using spatial reasoning and planning.*
+
+|===
+| Lesson Goals a| Students will be able to
+                  * Create composite images using functions 
+                  * Use spatial reasoning
+                  
+| Student-facing Goals a| * I can combine images in different ways to create more complex images. 
+                          * I can think three-dimensionally about shapes and images (I can describe an image as a combination of images beside, atop, and beneath each other.)
+
+| Key Points For The Teacher a| * Learning how to combine three or more images with these functions is typically a challenge for students to understand at first.  Allow for ample time for students to puzzle through it, reminding them to check their contracts page.
+                                * Contracts are especially important in this lesson - students should have their contracts page open and be able to figure out why they can’t combine three images at once.
+                                * While learning, most students will define a new image with every step, which is completely fine and expected at this stage.  As students grow more comfortable, they may discover that they can nest functions together without these extra definitions.
+| Prerequisites a| * Students must be familiar with The Design Recipe for this activity. 
+                   * Students must be familiar with Image Manipulation functions for this activity.
+|===
+
+|=== 
+| Math Standards (CCSS) a| * http://www.corestandards.org/Math/Practice/MP1[CCSS.MATH.PRACTICE.MP1] - Make sense of problems and persevere in solving them.
+
+                           * http://www.corestandards.org/Math/Practice/MP2[CCSS.MATH.PRACTICE.MP2] - Reason abstractly and quantitatively.
+
+                           * http://www.corestandards.org/Math/Practice/MP6[CCSS.MATH.PRACTICE.MP6] - Attend to precision.
+| CS Standards (CSTA) a| * _insert CS standards here_
+|===
+
+=== Get Ready: 
+
+Students should have their Contracts page and pencil ready.
+
+=== Launch: The Imitation Game (5 minutes)
+
+Ask students how they learned to talk, to walk, to hold a spoon, to throw a ball.  Chances are that they learned by imitating someone else.  Show the starter images and explain that today, the students will practice their image skills by replicating some well-known imagery. 
+
+.Art Connection
+********************************************************
+During the Renaissance, some master painters took in student apprentices and had the student duplicate their original works as a way to build the student’s skills.  The copies were then sold to pay the student’s tuition.
+********************************************************
+
+[.underline]#Notice & Wonder:# What do students notice about the starter images?  What tools might they need to create them?  
+
+Tell students that we’ll be learning three new functions today.  Show students the code for the first starter image and ask them to figure out the contract for the overlay function with their partner.  Once they’ve correctly identified the function name, domain, and range, have them try it on their own.
+
+=== Explore: (15 minutes)
+
+Students work with their partners to replicate the second image.  Students who finish quickly should continue exploring with overlay or collaborate with nearby groups.
+
+When everyone has completed the second image and had some time to explore, give students the third image and an additional 5 minutes to work.  
+
+=== Discuss: (5-10 minutes)
+
+Ask students:
+
+Why is this image more difficult than the first ones? (It is made up of three parts instead of two.)
+What did you try? What happened? (Students may have tried using overlay with three inputs and received an error.)
+What is the contract for overlay? (overlay: Image Image -> Image)
+How can we approach this?  Any ideas? 
+
+Create/Apply: (20-25 minutes)
