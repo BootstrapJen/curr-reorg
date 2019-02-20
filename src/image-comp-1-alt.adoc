@@ -1,24 +1,23 @@
 = Intro to Image Composition
 
-== Students will learn three new functions that allow them to create more complex images using spatial reasoning and planning.
+*Students will learn three new @vocab{function}s that allow them to create more complex images using spatial reasoning and planning.*
 
-[cols="20,80"]
+[cols="18,82"]
 |===
-| Lesson Goals a| Students will be able to
-                  * Create composite images using functions 
+| Lesson Goals a| * Create composite @vocab{image}s using functions 
                   * Use spatial reasoning
                   
 | Student-facing Goals a| * I can combine images in different ways to create more complex images. 
                           * I can think three-dimensionally about shapes and images (I can describe an image as a combination of images beside, atop, and beneath each other.)
 
 | Key Points For The Teacher a| * Learning how to combine three or more images with these functions is typically a challenge for students to understand at first.  Allow for ample time for students to puzzle through it, reminding them to check their contracts page.
-                                * Contracts are especially important in this lesson - students should have their contracts page open and be able to figure out why they can’t combine three images at once.
+                                * @vocab{Contract}s are especially important in this lesson - students should have their contracts page open and be able to figure out why they can’t combine three images at once.
                                 * While learning, most students will define a new image with every step, which is completely fine and expected at this stage.  As students grow more comfortable, they may discover that they can nest functions together without these extra definitions.
-| Prerequisites a| * Students must be familiar with The Design Recipe for this activity. 
+| Prerequisites a| * Students must be familiar with defining values for this activity. 
                    * Students must be familiar with Image Manipulation functions for this activity.
 |===
 
-[cols="20,80"]
+[cols="18,82"]
 |=== 
 | Math Standards (CCSS) a| * http://www.corestandards.org/Math/Practice/MP1[CCSS.MATH.PRACTICE.MP1] - Make sense of problems and persevere in solving them.
 
