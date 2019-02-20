@@ -27,9 +27,10 @@ a| *Math Standards (CCSS)* a| * http://www.corestandards.org/Math/Practice/MP1[C
 a| *CS Standards (CSTA)* a| * _insert CS standards here_
 |===
 
-=== Get Ready: 
-
+.Get Ready
+****
 Students should have their Contracts page and pencil ready.
+****
 
 === Launch: The Imitation Game (5 minutes)
 
