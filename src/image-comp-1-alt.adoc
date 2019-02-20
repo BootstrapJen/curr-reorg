@@ -4,27 +4,27 @@
 
 [cols="18,82"]
 |===
-| Lesson Goals a| * Create composite @vocab{image}s using functions 
+a| *Lesson Goals* a| * Create composite @vocab{image}s using functions 
                   * Use spatial reasoning
                   
-| Student-facing Goals a| * I can combine images in different ways to create more complex images. 
+a| *Student-facing Goals* a| * I can combine images in different ways to create more complex images. 
                           * I can think three-dimensionally about shapes and images (I can describe an image as a combination of images beside, atop, and beneath each other.)
 
-| Key Points For The Teacher a| * Learning how to combine three or more images with these functions is typically a challenge for students to understand at first.  Allow for ample time for students to puzzle through it, reminding them to check their contracts page.
+a| *Key Points For The Teacher* a| * Learning how to combine three or more images with these functions is typically a challenge for students to understand at first.  Allow for ample time for students to puzzle through it, reminding them to check their contracts page.
                                 * @vocab{Contract}s are especially important in this lesson - students should have their contracts page open and be able to figure out why they can’t combine three images at once.
                                 * While learning, most students will define a new image with every step, which is completely fine and expected at this stage.  As students grow more comfortable, they may discover that they can nest functions together without these extra definitions.
-| Prerequisites a| * Students must be familiar with defining values for this activity. 
+a| *Prerequisites* a| * Students must be familiar with defining values for this activity. 
                    * Students must be familiar with Image Manipulation functions for this activity.
 |===
 
 [cols="18,82"]
 |=== 
-| Math Standards (CCSS) a| * http://www.corestandards.org/Math/Practice/MP1[CCSS.MATH.PRACTICE.MP1] - Make sense of problems and persevere in solving them.
+a| *Math Standards (CCSS)* a| * http://www.corestandards.org/Math/Practice/MP1[CCSS.MATH.PRACTICE.MP1] - Make sense of problems and persevere in solving them.
 
                            * http://www.corestandards.org/Math/Practice/MP2[CCSS.MATH.PRACTICE.MP2] - Reason abstractly and quantitatively.
 
                            * http://www.corestandards.org/Math/Practice/MP6[CCSS.MATH.PRACTICE.MP6] - Attend to precision.
-| CS Standards (CSTA) a| * _insert CS standards here_
+a| *CS Standards (CSTA)* a| * _insert CS standards here_
 |===
 
 === Get Ready: 
