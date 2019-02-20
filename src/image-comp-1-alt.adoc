@@ -61,3 +61,5 @@ What is the contract for overlay? (overlay: Image Image -> Image)
 How can we approach this?  Any ideas? 
 
 Create/Apply: (20-25 minutes)
+
+Put up the image of Captain America's shield and have students work with their partners to deconstruct the image.  Once they have made their plan, they can begin coding.
