@@ -60,20 +60,20 @@ ease of generation, professional look (so no GoogleDocs).
 
 == Quick run
 
-The script `build-distrib` will create an HTML file for every
-`*.adoc` file in the `src` subdirectory. These HTML files are
-created in a `distribution` subdirectory (created if not already
+The script `build` will create an HTML file for every
+`*.adoc` file in the `lessons/algebra/langs/en-us/` subdirectory. These HTML files are
+created in a `distribution/lessons/algebra/langs/en-us/` subdirectory (created if not already
 there).
 
 == Running it
 
-The Racket script `insert-metadata.rkt` takes one or more adoc
+The Racket script `shared/langs/en-us/adoc-preproc.rkt` takes one or more adoc
 filenames
 as argument (`example.adoc`, `example2.adoc`) and generates the corresponding HTML
 (`example.html`, `example2.html`), with the metadata (glossary) inserted,
 plus a `summary.html` containing all the glossary items in all
 the input files.
 
-  insert-metadata.rkt example.adoc example2.adoc
+  adoc-preproc.rkt example.adoc example2.adoc
 
 View `example.html`, `example2.html`, `summary.html` in any browser.
