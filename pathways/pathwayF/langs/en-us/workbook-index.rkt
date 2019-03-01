@@ -1,0 +1,10 @@
+(
+ ("intro-to-dilations" "workbook-pages/intro-to-dilations-wb1.pdf")
+ ("intro-to-dilations" "exercises/intro-to-dilations-ex1.pdf")
+ ("image-composition" "exercises/image-composition-ex1.adoc")
+ ("image-composition" "workbook-pages/image-composition-wb1.adoc")
+ ("flags-of-the-world" "workbook-pages/flags-of-the-world-wb1.adoc")
+ ("image-transformations" "workbook-pages/image-transformations-wb1.adoc")
+ ("advanced-image-composition" "workbook-pages/advanced-image-composition-wb1.adoc")
+ ("flags-capstone" "workbook-pages/flags-capstone-wb1.adoc")
+ )
