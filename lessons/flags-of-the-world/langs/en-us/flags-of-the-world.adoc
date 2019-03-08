@@ -2,7 +2,6 @@
 
 *Students demonstrate what they’ve learned about image composition to recreate a nation’s flag with code.*
 
-
 [.left-header,cols="20a,80a", stripes=none]
 |===
 |Lesson Goals
@@ -13,9 +12,8 @@
 
 |Student-Facing Lesson Goals
 |
-* I can...
-* I can...
-* I can...
+* I can figure out what shapes make up an image.
+* I can create complex images using combinations of smaller images.
 
 |Key Points for the Facilitator
 |
@@ -58,13 +56,7 @@ On the board, give students a prompt to think on while they view the video.
 
 https://www.youtube.com/watch?v=lnPqFq1lIGg&t=23m45s[2012 Olympic Parade of Nations]
 
-The video has been cued up to midway through the 2012 Olympic Parade of Nations in London.  Watch 60-90 seconds before moving on.
-
-[.strategy-box]
-.Strategies for English Language Learners
-****
-MLR 5 -- Co-Craft Questions and Problems: Give students time to think and discuss with a partner or a small group before large group discussion.  Encourage students to build off each other's responses and move towards mathematical language.
-**** 
+The video has been cued up to midway through the 2012 Olympic Parade of Nations in London.  Watch 45-60 seconds before moving on.
 
 == Explore: (10 min)
 
@@ -78,9 +70,15 @@ Have students use the web to investigate flags that are relevant to them or that
 * How do you think the colors and shapes of the flag were chosen? 
 * Why isn’t there a standard size or shape for a flag?  Do you think there should be?
 
+[.strategy-box]
+.Strategies for English Language Learners
+****
+MLR 5 -- Co-Craft Questions and Problems: Give students time to think and discuss with a partner or a small group before large group discussion.  Encourage students to build off each other's responses and listen to different cultural perspectives.  Some students may be eager to discuss the flag of their family's home country or lineage, and others may not feel comfortable.
+****
+
 == Practice: (10 min)
 
-As a class, practice by recreating the flag of Cameroon together...
+As a class, practice by recreating the flag of Cameroon together.
 
 == Create/Apply: (5 min)
 
