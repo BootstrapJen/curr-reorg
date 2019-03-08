@@ -1,3 +1,6 @@
+*Lessons In This Pathway*
+
+
 In the Bootstrap: Flags pathway, students will use knowledge of functions, function composition, transformations in the plane, and coordinates to build compound images. One provided activity is to produce flags for different countries, and teachers have extended this idea in many ways to have students produce custom emoji, a graphic of their name, a personal logo design, and more. The key outcome is that students reinforce their understanding of functions alongside spatial relationships and reasoning with two-dimensional shapes through practice and then through a graphical capstone activity at the end.
 
 Several elements of the path are key, foundational elements of many Bootstrap Paths. If your students have a strong understanding of circles of evaluation, contracts, or defining values, you can review them as you feel necessary without doing full lessons. These are all exercised heavily when using the image functions in the lessons that build up to Flags 1.
