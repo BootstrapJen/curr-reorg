@@ -1,6 +1,6 @@
 = Flags of the World (Capstone Project)
 
-*Students...*
+*Students demonstrate what they’ve learned about image composition, coordinates, and proportions to recreate a nation’s flag with code.*
 
 
 [.left-header,cols="20a,80a", stripes=none]
@@ -8,13 +8,16 @@
 |Lesson Goals
 |Students will be able to:
 
-* Goal 1
-* Goal 2
+* Decompose a composite image into its component parts
+* Accurately recreate an image using coordinates and proportions
+
 
 |Student-Facing Lesson Goals
 |
-* I can...
-* I can...
+* I can break down a complex image into smaller images.
+* I can describe a position in the first quadrant using coordinates.
+* I can describe the dimensions of a shape using proportions (ex: a flag that is 200x300 has a height:width ratio of 2:3)
+
 
 |Key Points for the Facilitator
 |
