@@ -25,7 +25,7 @@
   
 * Students may not realize right away that they don’t need to define repeated elements as individual values, such as defining 7 separate, identical stripes for the https://en.wikipedia.org/wiki/Flag_of_Liberia[flag of Liberia].  Ask students to figure out the fewest number of elements they need to define in order to create their flag.
 
-* Students might choose a flag that contains an emblem that can't be recreated using geometric shapes, such as the https://en.wikipedia.org/wiki/Flag_of_Mexico[flag of Mexico].  These emblems can be found through an online image search and brought in using bitmap/url and scaled to the appropriate size.  
+* Students might choose a flag that contains an emblem that can't be recreated using geometric shapes, such as the https://en.wikipedia.org/wiki/Flag_of_Mexico[flag of Mexico].  These emblems can be found through an online image search and brought in using bitmap/url and scaled to the appropriate size as they did in the Dilations lesson. @worksheet-link{intro-to-dilations/plan.adoc}
 
 
 |Prerequisites
@@ -42,9 +42,11 @@
 |===
 |Math Standards (CCSS)
 |
-* http://www.corestandards.org/Math/Practice/MP2[CCSS.MATH.PRACTICE.MP2],
-Reason abstractly and quantitatively.
+* http://www.corestandards.org/Math/Practice/MP1[CCSS.MATH.PRACTICE.MP1], 
+Make sense of problems and persevere in solving them
 
+* http://www.corestandards.org/Math/Practice/MP6[CCSS.MATH.PRACTICE.MP6],
+Attend to precision
 
 |CS Standards (CSTA)
 |
@@ -54,24 +56,10 @@ Reason abstractly and quantitatively.
 
 == Get Ready:
 
-Students should have their computer, contracts page, and pencil.
+Students should have their computer, workbook, contracts page, and pencil.
 
-== Launch: (10 min)
+== Project (45 min)
 
-Launch task
+Students use what they've learned through previous lessons to create a flag or flags of their choosing.  
 
-== Explore: (10 min)
-
-Explore task
-
-== Discuss: (10 min)
-
-* Discussion questions
-
-== Practice: (10 min)
-
-Practice task
-
-== Create/Apply: (5 min)
-
-Create/Apply task 
+Students should use the "Flag Planning" sheet to plan out their code before moving to the computer.
