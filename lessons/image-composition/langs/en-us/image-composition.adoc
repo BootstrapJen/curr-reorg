@@ -1,6 +1,6 @@
-= Image Transformations
+= Image Composition
 
-*Students...*
+*Students will learn three new functions that allow them to create more complex images by using spatial reasoning and planning.*
 
 
 [.left-header,cols="20a,80a", stripes=none]
@@ -8,17 +8,23 @@
 |Lesson Goals
 |Students will be able to:
 
-* Goal 1
-* Goal 2
+* Create composite images using functions
+* Use spatial reasoning
 
 |Student-Facing Lesson Goals
 |
-* I can...
-* I can...
+* I can layer images to create new images
+
+* I can use spatial thinking to recreate a complex shape.
 
 |Key Points for the Facilitator
 |
-* Key points
+* Learning how to combine three or more images with these functions is typically a challenge for students to understand at first.  Allow for ample time for students to puzzle through it, reminding them to check their contracts page.
+
+* Contracts are especially important in this lesson - students should have their contracts page open and be able to figure out why they can’t combine three images at once.
+
+* While learning, most students will define a new image with every step, which is completely fine and expected at this stage.  As students grow more comfortable, they may discover that they can nest functions together without these extra definitions.
+
 
 |Prerequisites
 |
@@ -33,8 +39,8 @@
 |===
 |Math Standards (CCSS)
 |
-* http://www.corestandards.org/Math/Practice/MP2[CCSS.MATH.PRACTICE.MP2],
-Reason abstractly and quantitatively.
+* http://www.corestandards.org/Math/Practice/MP1[CCSS.MATH.PRACTICE.MP1],
+Make sense of problems and persevere in solving them
 
 
 |CS Standards (CSTA)
@@ -47,23 +53,37 @@ Reason abstractly and quantitatively.
 
 Students should have their computer, contracts page, and pencil.
 
-== Launch: (10 min)
+== Launch: (5 min)
 
-Launch task
+Put the contract for overlay, overlay: Image Image -> Image, on the board for students to see when they enter.
+
+[.notice-box]
+***
+What do you notice about this new function?  What do you wonder?
+***
 
 == Explore: (10 min)
 
-Explore task
+Let students investigate the new function on WeScheme independently.  Offer suggestions and guidance for debugging, but let students guide their own understanding of this new function.
 
 == Discuss: (10 min)
 
-* Discussion questions
+* What does this new @vocab{function} do? _It layers an @vocab{image} on top of another image._
+
+* Which image goes on top? _The first image in the @vocab{contract}.
+
+* Why can’t we use overlay with 3 images at once? _Because the contract for overlay states that it only accepts 2 images._
+
+* Describe how you managed to combine 3 images.  How did contracts and datatypes help you? _Knowing that overlay takes in 2 Images and produces 1 Image, breaking down a complex image into smaller parts, etc_
+
+* Could you overlay 3 images with one line of code?  
+
 
 == Practice: (10 min)
 
-Practice task
+Students recreate Captain America's shield (sample code here).
 
 == Create/Apply: (5 min)
 
-Create/Apply task 
+Have students create a nametag for themselves that layers several shapes along with their name on top.   
 
