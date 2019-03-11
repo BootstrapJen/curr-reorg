@@ -35,8 +35,8 @@
 |===
 |Math Standards (CCSS)
 |
-* http://www.corestandards.org/Math/Practice/MP2[CCSS.MATH.PRACTICE.MP2],
-Reason abstractly and quantitatively.
+* http://www.corestandards.org/Math/Content/8/G/A/1/[CCSS.MATH.8.G.A.1],
+Verify experimentally the properties of rotations, reflections, and translations.
 
 
 |CS Standards (CSTA)
