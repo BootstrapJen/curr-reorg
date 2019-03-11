@@ -21,11 +21,17 @@
 
 |Key Points for the Facilitator
 |
-* Key points
+* Encourage students to choose a flag that represents an appropriate challenge to them.  
+  
+* Students may not realize right away that they don’t need to define repeated elements as individual values, such as defining 7 separate, identical stripes for the https://en.wikipedia.org/wiki/Flag_of_Liberia[flag of Liberia].  Ask students to figure out the fewest number of elements they need to define in order to create their flag.
+
+* Students might choose a flag that contains an emblem that can't be recreated using geometric shapes, such as the https://en.wikipedia.org/wiki/Flag_of_Mexico[flag of Mexico].  These emblems can be found through an online image search and brought in using bitmap/url and scaled to the appropriate size.  
+
 
 |Prerequisites
 |
 * Students should be familiar with Circles of Evaluation.
+* Students should be familiar with image manipulation functions.
 
 |Materials
 |
