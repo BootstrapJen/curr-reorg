@@ -1,3 +1,3 @@
 (
-"image-transformations-wb1.adoc"
+"image-transformations-wb1.pdf"
 )
