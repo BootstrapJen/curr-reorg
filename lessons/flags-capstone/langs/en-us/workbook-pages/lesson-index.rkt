@@ -1,3 +1,3 @@
 (
-"flags-capstone-wb1.adoc"
+"flags-capstone-wb1.pdf"
 )
