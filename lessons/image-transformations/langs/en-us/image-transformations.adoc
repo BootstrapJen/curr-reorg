@@ -74,9 +74,9 @@ Students try out reflect-x, reflect-y, and rotate on the image of their name, wr
 
 == Practice: (10 min)
 
-“Match My Moves” activity - students get a pre-image and image and figure out the transformations needed to get from the pre-image to the image.
+“Match My Moves” - students get a pre-image and image and figure out the transformations needed to get from the pre-image to the image.
 
 == Create/Apply: (5 min)
 
-Create/Apply task 
+Students create their own "Match My Moves" puzzle to share.   
 
