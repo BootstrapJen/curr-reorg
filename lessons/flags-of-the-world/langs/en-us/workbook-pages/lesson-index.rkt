@@ -1,3 +1,4 @@
 (
-"flags-of-the-world-wb1.adoc"
+"flags-of-the-world-ex1.pdf
+"flags-of-the-world-wb1.pdf"
 )
