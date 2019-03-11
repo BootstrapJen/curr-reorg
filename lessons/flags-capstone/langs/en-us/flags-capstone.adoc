@@ -27,6 +27,7 @@
 
 * Students might choose a flag that contains an emblem that can't be recreated using geometric shapes, such as the https://en.wikipedia.org/wiki/Flag_of_Mexico[flag of Mexico].  These emblems can be found through an online image search and brought in using bitmap/url and scaled to the appropriate size as they did in the Dilations lesson. @worksheet-link{intro-to-dilations/plan.adoc}
 
+* Students shouldn't recreate a flag they've created before or do a "color swap" (ex: creating the flag of Ireland and changing the colors to make the flag of Italy).  Encourage students to challenge themselves and each other to create something they'll be proud of!
 
 |Prerequisites
 |
@@ -62,4 +63,4 @@ Students should have their computer, workbook, contracts page, and pencil.
 
 Students use what they've learned through previous lessons to create a flag or flags of their choosing.  
 
-Students should use the "Flag Planning" sheet to plan out their code before moving to the computer.
+Students should use the "Flag Planning" sheet to plan out their code before moving to the computer.  The facilitator may choose to have students get approval on their design and Circles of Evaluation before moving to the computer.
